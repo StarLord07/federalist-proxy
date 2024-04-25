@@ -20,6 +20,6 @@
     "body-parser": "^1.19.0",
     "chai": "^4.2.0",
     "mocha": "^7.2.0",
-    "supertest": "^4.0.2"
+    "supertest": "^7.0.0"
   }
 }
